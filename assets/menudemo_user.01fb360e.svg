@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Icône_Connexion" data-name="Icône Connexion" transform="translate(3 2)">
+    <rect id="Rectangle_277" data-name="Rectangle 277" width="24" height="24" transform="translate(-3 -2)" opacity="0"/>
+    <path id="Tracé_8652" data-name="Tracé 8652" d="M.725,6.75a8.254,8.254,0,0,1,8-6,8.254,8.254,0,0,1,8,6" transform="translate(0.275 13.25)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Groupe_4718" data-name="Groupe 4718" transform="translate(2 0)">
+      <g id="Groupe_4732" data-name="Groupe 4732" transform="translate(0 0)">
+        <g id="Ellipse_272" data-name="Ellipse 272" transform="translate(2 1)" fill="none" stroke="#7f57f1" stroke-width="1.5">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.25" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

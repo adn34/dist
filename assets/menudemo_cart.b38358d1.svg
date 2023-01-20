@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_994" data-name="Rectangle 994" width="24" height="24" transform="translate(258 116)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_17" data-name="Groupe de masques 17" transform="translate(-258 -116)" clip-path="url(#clip-path)">
+    <g id="shopping-cart_path" transform="translate(251 107)">
+      <path id="Tracé_8661" data-name="Tracé 8661" d="M9,13h2l3,11H24l2-8H12" fill="none" stroke="#101010" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Tracé_8662" data-name="Tracé 8662" d="M24.679,61.037a1.75,1.75,0,1,1-.875,1.516A1.75,1.75,0,0,1,24.679,61.037Z" transform="translate(-10.804 -34.803)" fill="none" stroke="#7f57f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Tracé_8663" data-name="Tracé 8663" d="M57.679,61.037a1.75,1.75,0,1,1-.875,1.516A1.75,1.75,0,0,1,57.679,61.037Z" transform="translate(-35.804 -34.803)" fill="none" stroke="#7f57f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
